@@ -1,6 +1,6 @@
 #  Tutorial: Decision Tables in Excel
 
-This is a modified sample of the work done by [www.baeldung.com](https://www.baeldung.com), credit goes to them.
+This is a modified sample of the work done by [www.baeldung.com](https://www.baeldung.com), credit goes to them..
 
 Decision tables are a "precise yet compact" (ref. Wikipedia) way of representing conditional logic, and are well suited 
 to business level rules.
